@@ -1,0 +1,14 @@
+name: com.seanlavoie.glidetutorial.GlideTutorial
+author: Sean Lavoie (coldguy101)
+website: cs.baylor.edu/~lavoie
+main: com.seanlavoie.glidetutorial.GlideTutorial
+version: 0.0.1-alpha
+description: This plugin is designed to take the user on a beautiful journey through the tutorial!
+commands:
+  glidetutorial:
+    description: Main Command
+    aliases:
+      - gt
+      - gtut
+      - gtutorial
+    usage: /glidetutorial {subcommand}
